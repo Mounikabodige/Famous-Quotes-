@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorbg">#697294</color>
+    <color name="colorblack">#01020E</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="color">#7E5364</color>
+
+    <color name="categoryBackground">#EBBCC2</color>   //categoryBackground
+    <color name="authorBackground">#665589</color>      //authorBackground
+    <color name="favBackground">#AF4339</color>         //favBackground
+    <color name="shareBackground">#7B8D8E</color>       //shareBackground
+    <color name="rateBackground">#335D7E</color>        //rateBackground
+
+    <color name="ran1">#38435a</color>
+    <color name="ran2">#5c858d</color>
+    <color name="ran3">#4f3963</color>
+    <color name="ran4">#1b234b</color>
+    <color name="ran5">#20415a</color>
+    <color name="ran6">#C85911</color>
+    <color name="ran7">#C8A412</color>
+    <color name="ran8">#83410D</color>
+    <color name="ran9">#0F928E</color>
+
+</resources>
